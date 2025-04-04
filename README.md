@@ -13,6 +13,8 @@
 
 <p align="left">✨ Life is short, learn javascript</p>
 <p align="left"> [GET] https://api.chucknorris.io/jokes/random</p>
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-bel-haj-fraj-8a75b928b)
 
 ###
 
