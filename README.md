@@ -14,7 +14,7 @@
 <p align="left">✨ Life is short, learn javascript</p>
 <p align="left"> [GET] https://api.chucknorris.io/jokes/random</p>
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-bel-haj-fraj-8a75b928b)
+<href <img src="https://github.com/user-attachments/assets/72ca2ee2-39eb-48f8-a45f-1543a9125717">www.linkedin.com/in/anas-bel-haj-fraj-8a75b928b</href>
 
 ###
 
